@@ -42,8 +42,14 @@ O presente projeto propõe a elaboração e implementação de dispositivos inte
 ---
 
 ## 📊 Resultados
-Apresente gráficos, tabelas ou imagens que demonstrem os resultados obtidos.  
-Exemplo: métricas de desempenho, testes realizados, comparações com trabalhos anteriores.
+<div style="display:grid; grid-template-columns: repeat(2, 1fr); gap: 16px; align-items:center;">
+    <img src="./ResultadosObtidos/img/projeto-fechado.jpeg" alt="Projeto fechado" style="width:300px; height:auto;"/>
+    <img src="./ResultadosObtidos/img/projeto-aberto.jpeg" alt="Projeto aberto" style="width:300px; height:auto;"/>
+    <img src="./ResultadosObtidos/img/projeto-sistema.jpeg" alt="Projeto sistema" style="width:300px; height:auto;"/>
+    <img src="./ResultadosObtidos/img/projeto-sensores.jpeg" alt="Projeto sensores" style="width:300px; height:auto;"/>
+    <img src="./ResultadosObtidos/img/interface-inicial.png" alt="Interface inicial" style="width:300px; height:auto;"/>
+    <img src="./ResultadosObtidos/img/interface-registrar.png" alt="Interface registrar" style="width:300px; height:auto; "/>
+</div>
 
 
 ---
