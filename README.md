@@ -49,7 +49,9 @@ Exemplo: métricas de desempenho, testes realizados, comparações com trabalhos
 - Instituição: Etec Profª Marinês Teodoro de Freitas Almeida, Novo Horizonte-SP
 - Período: 2023 fevereiro - 2025 dezembro
 
+---
+
 ## 📖 Artigo Científico
 - **Título:** DISPOSITIVOS INTELIGENTES INTEGRADOS COM ARDUÍNO, EM PROL DA SEGURANÇA EM MÁQUINAS E EQUIPAMENTOS
 - **Autores:** Leonardo Levi Atílio, Mateus Possari Soares dos Santos e Yuri Matheus Fanti Monteiro
-- **Link:** [URL para acesso ao artigo, se disponível]
+- **Documento PDF:** <a href="./ResultadosObtidos/pdf/Artigo Científico.pdf" target="_blank">Veja o artigo</a>
