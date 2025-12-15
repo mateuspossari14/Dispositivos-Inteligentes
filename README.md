@@ -34,6 +34,10 @@ O presente projeto propõe a elaboração e implementação de dispositivos inte
 - `/ReconhecimentoFacial/assets/img` → Local de armazenamento das imagens capturas com a câmera
 - `/ReconhecimentoFacial/main.py` → Arquivo principal do projeto Python.
 - `/ReconhecimentoFacial/simple_facerec.py` → Arquivo responsável pelo reconhecimento de faces que estejam cadastradas.
+### Imagens, vídeo e PDF:
+- `/ResultadosObtidos/img` → Todas as imagens do projeto e interface.
+- `/ResultadosObtidos/pdf` → Artigo científico.
+- `/ResultadosObtidos/video` → Vídeos de funcionamento.
 
 ---
 
