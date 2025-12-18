@@ -34,14 +34,31 @@ O presente projeto propõe a elaboração e implementação de dispositivos inte
 - `/ReconhecimentoFacial/assets/img` → Local de armazenamento das imagens capturas com a câmera
 - `/ReconhecimentoFacial/main.py` → Arquivo principal do projeto Python.
 - `/ReconhecimentoFacial/simple_facerec.py` → Arquivo responsável pelo reconhecimento de faces que estejam cadastradas.
+### Imagens, vídeo e PDF:
+- `/ResultadosObtidos/img` → Todas as imagens do projeto e interface.
+- `/ResultadosObtidos/pdf` → Artigo científico.
+- `/ResultadosObtidos/video` → Vídeos de funcionamento.
 
 ---
 
 ## 📊 Resultados
-Apresente gráficos, tabelas ou imagens que demonstrem os resultados obtidos.  
-Exemplo: métricas de desempenho, testes realizados, comparações com trabalhos anteriores.
+<div style="display:grid; grid-template-columns: repeat(2, 1fr); gap: 16px; align-items:center;">
+    <img src="./ResultadosObtidos/img/projeto-fechado.jpeg" alt="Projeto fechado" style="width:300px; height:auto;"/>
+    <img src="./ResultadosObtidos/img/projeto-aberto.jpeg" alt="Projeto aberto" style="width:300px; height:auto;"/>
+    <img src="./ResultadosObtidos/img/projeto-sistema.jpeg" alt="Projeto sistema" style="width:300px; height:auto;"/>
+    <img src="./ResultadosObtidos/img/projeto-sensores.jpeg" alt="Projeto sensores" style="width:300px; height:auto;"/>
+    <img src="./ResultadosObtidos/img/interface-inicial.png" alt="Interface inicial" style="width:300px; height:auto;"/>
+    <img src="./ResultadosObtidos/img/interface-registrar.png" alt="Interface registrar" style="width:300px; height:auto; "/>
+</div>
 
-
+<div style="display:grid; grid-template-columns: repeat(2, 1fr); gap: 16px; align-items:center; margin-top: 16px">
+    <video width="400" height="auto" controls>
+        <source src="./ResultadosObtidos/video/video-project1.mp4" type="video/mp4" />
+    </video>
+    <video width="400" height="auto" controls>
+        <source src="./ResultadosObtidos/video/Video-project2.mp4" type="video/mp4" />
+    </video>
+</div>
 ---
 
 ## 🏫 Instituição de ensino
@@ -49,7 +66,9 @@ Exemplo: métricas de desempenho, testes realizados, comparações com trabalhos
 - Instituição: Etec Profª Marinês Teodoro de Freitas Almeida, Novo Horizonte-SP
 - Período: 2023 fevereiro - 2025 dezembro
 
+---
+
 ## 📖 Artigo Científico
 - **Título:** DISPOSITIVOS INTELIGENTES INTEGRADOS COM ARDUÍNO, EM PROL DA SEGURANÇA EM MÁQUINAS E EQUIPAMENTOS
 - **Autores:** Leonardo Levi Atílio, Mateus Possari Soares dos Santos e Yuri Matheus Fanti Monteiro
-- **Link:** [URL para acesso ao artigo, se disponível]
+- **Documento PDF:** <a href="./ResultadosObtidos/pdf/Artigo Científico.pdf" target="_blank">Veja o artigo</a>
