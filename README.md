@@ -51,7 +51,14 @@ O presente projeto propõe a elaboração e implementação de dispositivos inte
     <img src="./ResultadosObtidos/img/interface-registrar.png" alt="Interface registrar" style="width:300px; height:auto; "/>
 </div>
 
-
+<div style="display:grid; grid-template-columns: repeat(2, 1fr); gap: 16px; align-items:center; margin-top: 16px">
+    <video width="400" height="auto" controls>
+        <source src="./ResultadosObtidos/video/video-project1.mp4" type="video/mp4" />
+    </video>
+    <video width="400" height="auto" controls>
+        <source src="./ResultadosObtidos/video/Video-project2.mp4" type="video/mp4" />
+    </video>
+</div>
 ---
 
 ## 🏫 Instituição de ensino
